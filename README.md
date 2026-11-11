@@ -1,16 +1,22 @@
-## Hi there 👋
+# 你好，我是 qtingercx 👋
 
-<!--
-**qtingercx/qtingercx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 目前正在学习编程和开源协作
+- 使用 WorkBuddy 作为 AI 编程助手，边学边做
+- 目标：把学到的每个小项目都沉淀在这里
+
+## 正在进行
+
+- 🌱 熟悉 Git 与 GitHub 工作流（这个仓库就是第一步）
+- 🔧 计划做一些练手小项目
+
+## 联系我
+
+- GitHub Issues 是最快的联系方式
+
+---
+
+<!-- 以下是给未来的自己的备注：这个仓库的内容可以随时改，直接编辑 README.md 即可 -->
